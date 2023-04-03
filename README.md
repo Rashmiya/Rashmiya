@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rashmiya Rafeek.</h1>
 <h3 align="center">A passionate Fullstack Developer from Srilanka.</h3>
 
+<a href="https://app.daily.dev/Rashmiya99"><img src="https://api.daily.dev/devcards/c30a906ab042482984d6c27d09582dfd.png?r=zjp" width="400" alt="Rashmiya_Rafeek's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmiya&label=Profile%20views&color=0e75b6&style=flat" alt="rashmiya" /> </p>
 
 - 🔭 I’m currently studying at [Institute of Software Engineering](https://www.ijse.lk/)
