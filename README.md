@@ -6,7 +6,7 @@
 
 - I have experience building user focused applications, working with APIs, implementing real world features, and contributing to maintainable software solutions in collaborative environments. My technical background is strongest in frontend, backend, and mobile engineering, and I am particularly interested in expanding further into **DevOps engineering**, **API development**, and modern software delivery practices.
 
-<a href="https://app.daily.dev/rashmiya99"><img src="https://api.daily.dev/devcards/v2/4sbDIlRxfIF9w4vCdZWoZ.png?r=w15" width="356" alt="Rashmiya_Rafeek's Dev Card"/></a>
+<!--a href="https://app.daily.dev/rashmiya99"><img src="https://api.daily.dev/devcards/v2/4sbDIlRxfIF9w4vCdZWoZ.png?r=w15" width="356" alt="Rashmiya_Rafeek's Dev Card"/></a-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmiya&label=Profile%20views&color=0e75b6&style=flat" alt="rashmiya" /> </p>
 
