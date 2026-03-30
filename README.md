@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rashmiya Rafeek.</h1>
+<h1 align="center">Hi 👋, I'm Rashmiya Rabeek.</h1>
 <p>I am a Software Engineer with 2 years of professional experience in web based and mobile application development. I hold a BSc (Hons) in Computer Science from London Metropolitan University, awarded with Upper Second Class Honours. Currently based in the Netherlands, I am focused on building a long term engineering career and growing in strong technology environments through continuous learning, hands on development, and meaningful product work.</p>
 
 <h3 align="left">🌱 Professional Summary :</h3>
